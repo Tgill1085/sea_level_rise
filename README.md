@@ -1,3 +1,7 @@
+09/07/2021
+
+Using Pandas, Matplotlib, and SciPy, anaylized a dataset of the global average sea level change since 1880, and used the data to predict the sea level change through year 2050. Solution to the assignment can be found under sea_level_predictor.py, along with the figure sea_level_plot.png
+
 ### Assignment
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
@@ -22,6 +26,8 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+https://replit.com/@TashaGill/boilerplate-sea-level-predictor-1#sea_level_predictor.py
 
 ### Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
